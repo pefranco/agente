@@ -1,3 +1,4 @@
+#pip install --user requests paramiko colorama
 #!/usr/bin/env python3
 import json
 import getpass
